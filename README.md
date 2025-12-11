@@ -2,7 +2,7 @@
 
 This project presents an end-to-end Power BI solution that transforms raw Excel sales data into a fully interactive analytical dashboard. The dashboard provides actionable insights into sales trends, profitability and account performance, enabling informed decision-making across product, customer, and geographic dimensions.
 
-# Dataset Overview
+# 📊 Dataset Overview
 
 ### 1. Fact Table — fact_sales
 
@@ -43,7 +43,7 @@ A helper table enabling dynamic metric selection between:
 - Gross Profit
 - Quantity
 
-# Dashboard Features
+# 📈 Dashboard Features
 
 ### Dynamic KPI Cards:
 
