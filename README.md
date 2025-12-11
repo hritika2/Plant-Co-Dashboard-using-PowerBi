@@ -13,3 +13,10 @@ This project presents an end-to-end Power BI solution that transforms raw Excel 
   - Cost of Goods Sold (COGS)
   - Invoice Date
   - Account ID
+
+### 2. Account Dimension — dim_account
+
+- Includes customer and geographic details such as:
+- Account identifiers
+- Location information
+- Customer segmentation attributes
