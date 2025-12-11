@@ -1,11 +1,15 @@
 # Plant Co. Dashboard using PowerBi
 
-This repository contains a Power BI dashboard built for a fictional company named Plant Co.. The dashboard provides interactive insights into the company’s key business metrics, including:
+This project presents an end-to-end Power BI solution that transforms raw Excel sales data into a fully interactive analytical dashboard. The dashboard provides actionable insights into sales trends, profitability and account performance, enabling informed decision-making across product, customer, and geographic dimensions.
 
-- Sales Performance – Track total revenue across time periods.
+# Dataset Overview
 
-- Gross Profit Analysis – Understand profitability trends.
+### 1. Fact Table — fact_sales
 
-- Quantity Sold – Monitor product movement and demand.
-
-- Year-to-Date (YTD) vs. Prior Year-to-Date (PYTD) – Compare performance against the previous year for better trend analysis.
+  Contains transactional sales data, including:
+  - Product ID
+  - Sales Quantity
+  - Sales Amount
+  - Cost of Goods Sold (COGS)
+  - Invoice Date
+  - Account ID
