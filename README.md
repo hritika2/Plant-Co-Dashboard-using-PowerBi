@@ -61,16 +61,15 @@ A helper table enabling dynamic metric selection between:
 
 ### Visuals Designed for Insight
 
-1. Waterfall Chart
+1. Waterfall Chart:- 
+ - Breaks down changes between YTD and PYTD to show contributing factors by product type or account.
 
-  Breaks down changes between YTD and PYTD to show contributing factors by product type or account.
+2. Line & Stacked Column Chart: -
+  - Displays monthly performance trends with drill-down to quarter and month, enabling time-based comparison.
 
-3. Line & Stacked Column Chart
-    Displays monthly performance trends with drill-down to quarter and month, enabling time-based comparison.
+3. Tree Map:- 
+   - Highlights bottom 10 countries by YTD vs PYTD, enabling focus on declining markets.
 
-4. Tree Map
-    Highlights bottom 10 countries by YTD vs PYTD, enabling focus on declining markets.
-
-5. Scatter (Bubble) Chart
-    Plots: Gross Profit % (Y-axis) and Selected measure (X-axis)
-    Used to segment accounts based on profitability and sales levels, with average lines for benchmarking.
+4. Scatter (Bubble) Chart:- 
+    - Plots: Gross Profit % (Y-axis) and Selected measure (X-axis)
+    - Used to segment accounts based on profitability and sales levels, with average lines for benchmarking.
